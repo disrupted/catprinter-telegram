@@ -1,0 +1,3 @@
+[submodule "catprinter"]
+	path = catprinter
+	url = git@github.com:c7h/catprinter.git
